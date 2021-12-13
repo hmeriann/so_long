@@ -9,3 +9,8 @@
 
 Управление персонажем - с помощью клавиш WASD.
 Закрыть окно можно клавишей ESC либо кликнув по кнопке "Закрыть" на самом окне.
+
+Материалы для тех, кто тоже делает этот проект:
+https://github.com/keuhdall/images_example
+https://github.com/qst0/ft_libgfx/blob/master/man_mlx_new_image.md#storing-color-inside-images
+https://github.com/qst0/ft_libgfx/blob/master/man_mlx_loop.md
